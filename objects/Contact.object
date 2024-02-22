@@ -438,6 +438,14 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>Nookaraju__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Nookaraju</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>OtherAddress</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
