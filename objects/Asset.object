@@ -111,6 +111,17 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+        <fullName>Alpha__c</fullName>
+        <externalId>false</externalId>
+        <label>Alpha</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackHistory>false</trackHistory>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>AssetLevel</fullName>
         <trackHistory>false</trackHistory>
     </fields>
@@ -123,6 +134,14 @@
         <fullName>AssetServicedById</fullName>
         <trackHistory>false</trackHistory>
         <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>Beta__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Beta</label>
+        <trackHistory>false</trackHistory>
+        <type>Checkbox</type>
     </fields>
     <fields>
         <fullName>ConsequenceOfFailure</fullName>
@@ -147,6 +166,16 @@
         <fullName>ExternalIdentifier</fullName>
         <inlineHelpText>ID of matching record in an external system.</inlineHelpText>
         <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
+        <fullName>Gamma__c</fullName>
+        <externalId>false</externalId>
+        <label>Gamma</label>
+        <length>18</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
     </fields>
     <fields>
         <fullName>InstallDate</fullName>
