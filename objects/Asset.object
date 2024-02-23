@@ -125,6 +125,14 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>Beta__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Beta</label>
+        <trackHistory>false</trackHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>ConsequenceOfFailure</fullName>
         <trackHistory>false</trackHistory>
         <type>Picklist</type>
