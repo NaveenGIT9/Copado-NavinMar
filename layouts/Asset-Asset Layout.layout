@@ -51,6 +51,10 @@
                 <behavior>Edit</behavior>
                 <field>Laptop_Serial_Number__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>In_warranty__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
