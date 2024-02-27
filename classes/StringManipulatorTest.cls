@@ -1,4 +1,3 @@
-[1:07 PM] Sai Lekhana Kari
 @isTest
 
 public class StringManipulatorTest {
