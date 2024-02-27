@@ -1,5 +1,5 @@
 public class ContactRecord {
-    Public Static Void ContactRecords()
+    Public Static Void ConRecord()
     {
         Contact createCon=new Contact();
         //createcon.Name='Jaggu';
