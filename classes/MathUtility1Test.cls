@@ -21,5 +21,15 @@ public class MathUtility1Test {
         System.assertEquals(8, result);
     }
     
+    @isTest
+    static void testdivideNumbers() {
+        // Test the multiplyNumbers method
+
+        Integer result = MathUtility.divideNumbers(4, 2);
+
+        // Assert that the result is 8
+        System.assertEquals(2, result);
+    }
+    
      
 }

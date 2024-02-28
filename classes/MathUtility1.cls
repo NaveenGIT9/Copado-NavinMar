@@ -8,5 +8,9 @@ public class MathUtility1 {
         return a * b;
     }
     
+    public static Integer divideNumbers(Integer a, Integer b) {
+        return a / b;
+    }
+    
   
 }
