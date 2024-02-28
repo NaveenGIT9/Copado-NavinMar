@@ -39,4 +39,14 @@ public class MathUtilityTest {
         // Assert that the result is 8
         System.assertEquals(0, result);
     }
+  
+   @isTest
+    static void testDivideNumbers1() {
+        // Test the multiplyNumbers method
+
+        Integer result = MathUtility.divideNumbers(4, 2);
+
+        // Assert that the result is 8
+        System.assertEquals(2, result);
+    }
 }
