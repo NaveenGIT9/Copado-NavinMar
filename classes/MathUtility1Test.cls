@@ -5,7 +5,7 @@ public class MathUtility1Test {
     static void testAddNumbers() {
         // Test the addNumbers method
 
-        Integer result = MathUtility.addNumbers(3, 5);
+        Integer result = MathUtility1.addNumbers(3, 5);
 
         // Assert that the result is 8
         System.assertEquals(8, result);
@@ -15,7 +15,7 @@ public class MathUtility1Test {
     static void testMultiplyNumbers() {
         // Test the multiplyNumbers method
 
-        Integer result = MathUtility.multiplyNumbers(2, 4);
+        Integer result = MathUtility1.multiplyNumbers(2, 4);
 
         // Assert that the result is 8
         System.assertEquals(8, result);
@@ -25,7 +25,7 @@ public class MathUtility1Test {
     static void testSubstractNumbers() {
         // Test the multiplyNumbers method
 
-        Integer result = MathUtility.substractNumbers(4, 4);
+        Integer result = MathUtility1.substractNumbers(4, 4);
 
         // Assert that the result is 8
         System.assertEquals(0, result);
