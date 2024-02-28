@@ -22,13 +22,12 @@ public class MathUtilityTest {
     }
     
      @isTest
-    static void testsubstractNumbers() {
+    static void testDivideNumbers() {
         // Test the multiplyNumbers method
 
-        Integer result = MathUtility.substractNumbers(4, 4);
+        Integer result = MathUtility.divideNumbers(4, 2);
 
         // Assert that the result is 8
-        System.assertEquals(0, result);
+        System.assertEquals(2, result);
     }
-    
 }
