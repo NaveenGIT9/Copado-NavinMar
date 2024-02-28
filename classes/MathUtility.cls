@@ -11,4 +11,8 @@ public class MathUtility {
     public static Integer divideNumbers(Integer a, Integer b) {
         return a / b;
     }
+    
+    public static Integer divideNumbers1(Integer a, Integer b) {
+        return a / b;
+    }
 }
