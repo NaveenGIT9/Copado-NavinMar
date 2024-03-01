@@ -130,6 +130,25 @@
     <enableFeeds>false</enableFeeds>
     <externalSharingModel>Private</externalSharingModel>
     <fields>
+        <fullName>Export__c</fullName>
+        <externalId>false</externalId>
+        <label>Export</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Import__c</fullName>
+        <externalId>false</externalId>
+        <label>Import</label>
+        <length>23</length>
+        <required>false</required>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Name</fullName>
     </fields>
     <fields>
