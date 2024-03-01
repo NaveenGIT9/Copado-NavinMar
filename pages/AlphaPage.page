@@ -1,0 +1,7 @@
+<apex:page >
+  <!-- Begin Default Content REMOVE THIS -->
+  <h1>Congratulations Nookraj</h1>
+  <p>By Nookraj</p>
+  This is your Alpha Page
+  <!-- End Default Content REMOVE THIS -->
+</apex:page>
