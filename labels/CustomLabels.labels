@@ -7,4 +7,11 @@
         <shortDescription>DEV1Label</shortDescription>
         <value>dev1</value>
     </labels>
+    <labels>
+        <fullName>DEV2Label</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>DEV2Label</shortDescription>
+        <value>dev2</value>
+    </labels>
 </CustomLabels>
