@@ -1,0 +1,8 @@
+<apex:page >
+  <!-- Begin Default Content REMOVE THIS -->
+  <h1>Salesforce DevOps-Dev2</h1>
+  <p>Hexagon</p>
+  This is your Test VF Page
+  <!-- End Default Content REMOVE THIS -->
+  <p>From Dev2 Environment</p>
+</apex:page>
